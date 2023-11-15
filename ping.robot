@@ -1,5 +1,4 @@
 
-## Tiina Ylimäki
 ## Tehtävänanto:
 ## 1. Lue webpages.txt tiedot RF:n käyttöön.
 ## 2. Lähetä Ping jokaiseen tekstitiedostolta löytyvään osoitteeseen.
